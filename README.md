@@ -1,5 +1,10 @@
 # MW2-SPRX
 MW2 SPRX All Client Host Mod Menu For The PS3
+The menu base for this modmenu is built on the work of Wizimodz, originally developed 7 years ago.
+
+[Creator](https://www.youtube.com/@Wizimodz)
+
+Original base [WhiteWater Base](https://www.youtube.com/watch?v=_dv0eN8Yxto)
 > `Few options missing this menu has not been finished do what you please with it`
 
 ![Untitled-1](https://github.com/extortionate/MW2-SPRX/assets/131308027/f3e73661-b61f-444c-b08b-ee9ed29150e8)
